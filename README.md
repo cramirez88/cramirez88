@@ -24,7 +24,7 @@
   <p>💬 About me : I am a recent Coding Dojo graduate where I have completed Basic Web-fundamentals, the python stack, and the MERN stack. To further my knowledge and understanding, I am building new projects and learning new tools and technologies.
 </div>
 
-👨‍💻 Programming and markup languages
+### 👨‍💻 Programming and Markup languages
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
