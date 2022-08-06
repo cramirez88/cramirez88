@@ -1,7 +1,8 @@
+Hi 👋, I'm Christian
 <div id='header' align='center'>
   <img src='https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif'></img>
 </div>
-Hi 👋, I'm Christian
+
 
 <!--
 **cramirez88/cramirez88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
