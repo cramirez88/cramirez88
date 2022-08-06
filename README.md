@@ -19,6 +19,12 @@
   <a href="https://instagram.com/christiann_10/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://www.freepnglogos.com/uploads/download-instagram-png-logo-20.png"/></a>
 </p>
 
+<div>
+  <p> 🔭 I’m currently working on Algorithms and Data Structures</p>
+  <p> 📫 How to reach me: <a href='mailto: christian.r0602@gmail.com'>christian.r0602@gmail.com</a></p>
+  <p>💬 About me : I am a recent Coding Dojo graduate where I have completed Basic Web-fundamentals, the python stack, and the MERN stack. To further my knowledge and understanding, I am building new projects and learning new tools and technologies.
+</div>
+
 👨‍💻 Programming and markup languages
 
 <p>
@@ -66,12 +72,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Algorithms and Data Structures
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: <a>christian.r0602@gmail.com</a>
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
