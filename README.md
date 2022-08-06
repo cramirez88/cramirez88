@@ -1,4 +1,4 @@
-<div align='center'>
+<div id='header' align='center'>
   <img src='https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif'></img>
 </div>
 Hi 👋, I'm Christian
