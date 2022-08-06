@@ -1,11 +1,10 @@
-
-  <h1 align='center'>Hi 👋, I'm Christian</h1>
+ 
+  <h1 align='center'>Hi, I'm Christian Ramirez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+  
+  
   <p align="center">
       <a href="https://github.com/cramirez88/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Software%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
   </p>
-
-
-
 
 <!-- Social icons section -->
 <h3 align='center'>Connect With Me:</h3>
@@ -41,7 +40,7 @@
 <p>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-20232a.svg?logo=flask&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 </p>
 
