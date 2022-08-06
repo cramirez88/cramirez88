@@ -1,7 +1,14 @@
-<h1 align='center'>Hi 👋, I'm Christian</h1>
+
+  <h1 align='center'>Hi 👋, I'm Christian</h1>
+  <p align="center">
+      <a href="https://github.com/cramirez88/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Software%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  </p>
+
+
 
 
 <!-- Social icons section -->
+<h3 align='center'>Connect With Me:</h3>
 <p align="center">
   <a href="https://twitter.com/R97Christian"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
